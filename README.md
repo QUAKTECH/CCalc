@@ -10,10 +10,11 @@ A CLI tool for calculating various mathematical (and others) operations.
 Under the ASP License v2 and MIT licenses.
 
 ## Installing
-Not done yet
+```./install.sh```
+after which you can remove the makefile and install.sh files if you wanted to.
 
 ## 4 - Usage
-See man file.
+```man ccalc```
 
 --- README by AeternusDio ---
 -
