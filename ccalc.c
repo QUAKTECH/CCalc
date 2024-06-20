@@ -11,14 +11,14 @@
 Software Name: CCalc
 Version: 1.0.0
 Authors: Aeternusdio.
-Ecosystem: The ASP Software Development Software Suite. or (DSS)
+Ecosystem: The QUACKTECH Software Development Software Suite. or (DSS)
 [ Edited with Vim. ]
 Date Written: Wednesday, june 19 2024
 
 Description:
 A CLI tool for calculating various mathematical (and others) operations.
 
-License: ASP License V2 & MIT (Dual Licensed)
+License: QUACKTECH License V2 & MIT (Dual Licensed)
 Website: No Wesbite.
 Contact: No Contact.
 
