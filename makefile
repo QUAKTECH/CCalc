@@ -1,9 +1,14 @@
 all: install move_license
 
 install:
-		rm ccalc.c
-		sudo mv ccalc /usr/bin/
-		sudo chmod +x /usr/bin/ccalc
+		@if [ "`uname`" = "Darwin" ]; then \
+			echo "Detected macOS"; \
+			sudo mv ccalc /usr/local/bin/; \
+		else \
+			echo "Detected Linux"; \
+			sudo mv ccalc /usr/bin/; \
+		fi
+		sudo chmod +x /usr/local/bin/ccalc || sudo chmod +x /usr/bin/ccalc
 		sudo mv ccalc.1 /usr/share/man/man1
 
 move_license:
