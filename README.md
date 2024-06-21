@@ -5,6 +5,7 @@ A CLI tool for calculating various mathematical (and others) operations.
 
 ## 1 - Devs
 - AeternusDio - [me](https://github.com/aeternusdio)
+- Cupboardmanufracturer [lil C (that's his street name](https://github.com/cupboardmanufacturer)
 
 ## 2 - Licenses
 Under the ASP License v2 and MIT licenses.
