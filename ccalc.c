@@ -15,6 +15,9 @@ Ecosystem: The QUACKTECH Software Development Software Suite. or (DSS)
 [ Edited with Vim. ]
 Date Written: Wednesday, june 19 2024
 
+acknowledgments:
+    CupBoardmanufracturer - testing the software
+
 Description:
 A CLI tool for calculating various mathematical (and others) operations.
 
