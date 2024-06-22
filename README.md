@@ -10,6 +10,9 @@ A CLI tool for calculating various mathematical (and others) operations.
 ## 2 - Licenses
 Under the ASP License v2 and MIT licenses.
 
+## Compiling
+```gcc -o main ccalc ccalc.c -lm```
+
 ## Installing
 ```./install.sh```
 after which you can remove the makefile and install.sh files if you wanted to.
